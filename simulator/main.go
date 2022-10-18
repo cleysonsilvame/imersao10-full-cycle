@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/cleysonsilvame/imersao10-full-cycle/application/kafka"
-	infraKafka "github.com/cleysonsilvame/imersao10-full-cycle/infra/kafka"
+	"github.com/cleysonsilvame/imersao10-full-cycle/simulator/application/kafka"
+	infraKafka "github.com/cleysonsilvame/imersao10-full-cycle/simulator/infra/kafka"
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
 	"github.com/joho/godotenv"
 )

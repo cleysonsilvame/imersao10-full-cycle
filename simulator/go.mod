@@ -1,4 +1,4 @@
-module github.com/cleysonsilvame/imersao10-full-cycle
+module github.com/cleysonsilvame/imersao10-full-cycle/simulator
 
 go 1.16
 

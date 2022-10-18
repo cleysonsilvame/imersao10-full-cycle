@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/cleysonsilvame/imersao10-full-cycle/application/route"
-	"github.com/cleysonsilvame/imersao10-full-cycle/infra/kafka"
+	"github.com/cleysonsilvame/imersao10-full-cycle/simulator/application/route"
+	"github.com/cleysonsilvame/imersao10-full-cycle/simulator/infra/kafka"
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
 )
 
